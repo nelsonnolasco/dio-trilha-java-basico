@@ -1,0 +1,22 @@
+
+//Deve ser nomeado como verbo
+//Padrão Camel Case
+//Nome deve ter nome de apenas uma ação, pois se tiver mais de uma ação, o método deve ser dividido em mais de um método, pois só tem uma responsabilidade.
+//Estar atento a qual finalidade e retorno do método.
+//O método deve ter um retorno, se não tiver retorno, deve ser representado pela palavra chave void.
+// Visibilidade do método: public, private, protected, default
+// public: visível para todos
+// private: visível apenas dentro da classe onde foi criado
+// protected: visível para classes do mesmo pacote e classes filhas
+// default: visível apenas para classes do mesmo pacote
+// static: método de classe, não precisa instanciar a classe para chamar o método
+// final: método não pode ser sobrescrito
+// abstract: método não tem corpo, deve ser implementado nas classes filhas
+// synchronized: método é sincronizado, apenas uma thread pode acessar por vez
+// native: método é implementado em outra linguagem
+// strictfp: método segue o padrão IEEE 754 de precisão
+   
+//Exemplo de método
+// public void nomeDoMetodo() {
+//     // Corpo do método
+// }
