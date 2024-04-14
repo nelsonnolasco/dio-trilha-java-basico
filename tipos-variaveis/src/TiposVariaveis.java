@@ -6,7 +6,7 @@ public class TiposVariaveis {
         short numeroCurto2 = (short) numeroNormal;
         
         int numero = 1;
-        numero = 2
+        numero = 2;
 
         //  CONSTANTES
 
