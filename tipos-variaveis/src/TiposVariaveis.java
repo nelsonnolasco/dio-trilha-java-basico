@@ -14,7 +14,9 @@ public class TiposVariaveis {
 
         final Double TAXA = 2.54
 
-        
+        String meuNome = "Nelson de Campos Nolasco"
+
+
 
     }
 }
