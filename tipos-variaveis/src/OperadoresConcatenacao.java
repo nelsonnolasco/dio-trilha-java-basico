@@ -1,4 +1,4 @@
-public class Operadores {
+public class OperadoresConcatenacao {
 
     public static void main(String[] args) {
         
