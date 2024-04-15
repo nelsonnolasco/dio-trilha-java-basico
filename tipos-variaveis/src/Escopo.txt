@@ -1,3 +1,6 @@
 public class Escopo {
     // uso de escopo de variáveis, métodos e classes.
 }
+
+
+https://glysns.gitbook.io/java-basico/sintaxe/escopo
