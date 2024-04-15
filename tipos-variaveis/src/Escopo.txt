@@ -1,0 +1,3 @@
+public class Escopo {
+    // uso de escopo de variáveis, métodos e classes.
+}
