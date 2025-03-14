@@ -12,11 +12,11 @@ public class ContaTerminal {
         System.out.println("Por favor, digite o numero da Conta: ");
         int conta = scanner.nextInt();
 
-        System.out.println("Por favor, digite o numero da Agência: ");
-        int agencia = scanner.nextInt();
-
         // Consumir a quebra de linha pendente
         scanner.nextLine();
+
+        System.out.println("Por favor, digite o numero da Agência: ");
+        String agencia = scanner.nextLine();
 
         System.out.println("Por favor, digite o nome do titular: ");
         String nomeCliente = scanner.nextLine();
